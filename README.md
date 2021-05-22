@@ -22,5 +22,4 @@ Run the Android Emulator directly in Android Studio
 
     Click File > Settings > Tools > Emulator (or Android Studio > Preferences > Tools > Emulator on macOS), then select Launch in a tool window and click OK.
     If the Emulator window didn't automatically appear, open it by clicking View > Tool Windows > Emulator.
-<br></br>
 Then go to the terminal, press 'a' to open in your emulator android, or you can use your phone to scan the QR code in development mode.
