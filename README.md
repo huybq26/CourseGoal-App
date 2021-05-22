@@ -1,6 +1,6 @@
 # CourseGoal-App
-An android app to take note and list the goals for each course. <br></br>
-User can add, modify, delete their tasks and notes with one touch. <br></br>
+An android app to take note and list the goals for each course.
+User can add, modify, delete their tasks and notes with one touch.
 
 In order to run this app, you need to install Expo CLI and have Android Studio ready with an Emulator. Follow the guides below:
 
