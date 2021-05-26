@@ -4,7 +4,7 @@ User can add, modify, delete their tasks and notes with one touch.
 
 In order to run this app, you need to install Expo CLI and have Android Studio ready with an Emulator. Follow the guides below:
 
-Initialize node modules:
+Initializing node modules:
 ### `npm install --save react-tinder-card --legacy-peer-deps`
 ### `npm install`
 Installing Expo CLI:
